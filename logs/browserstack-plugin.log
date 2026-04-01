@@ -1,2 +1,14 @@
 23:05:17.551 [ApplicationImpl pooled thread 18] INFO  c.b.s.l.BrowserStackRunExtension - maven
 23:05:17.552 [ApplicationImpl pooled thread 18] INFO  com.browserstack.sdk.utils.Helpers - null
+23:12:07.294 [ApplicationImpl pooled thread 47] INFO  c.b.s.l.BrowserStackRunExtension - testng
+23:12:07.295 [ApplicationImpl pooled thread 47] INFO  com.browserstack.sdk.utils.Helpers - null
+23:12:07.297 [ApplicationImpl pooled thread 47] INFO  com.browserstack.sdk.utils.Helpers - /Users/smitabose/.m2/repository/com/browserstack/browserstack-java-sdk/1.8.0/browserstack-java-sdk-1.8.0.jar
+23:12:07.297 [ApplicationImpl pooled thread 47] INFO  c.b.s.l.BrowserStackRunExtension - Agent path: /Users/smitabose/.m2/repository/com/browserstack/browserstack-java-sdk/1.8.0/browserstack-java-sdk-1.8.0.jar
+23:12:07.297 [ApplicationImpl pooled thread 47] INFO  c.b.s.l.BrowserStackRunExtension - Adding Browserstack SDK javaagent argline
+23:12:07.297 [ApplicationImpl pooled thread 47] INFO  c.b.s.l.BrowserStackRunExtension - Plugin version: 2.0.2-IC
+23:15:52.327 [ApplicationImpl pooled thread 71] INFO  c.b.s.l.BrowserStackRunExtension - testng
+23:15:52.327 [ApplicationImpl pooled thread 71] INFO  com.browserstack.sdk.utils.Helpers - null
+23:15:52.327 [ApplicationImpl pooled thread 71] INFO  com.browserstack.sdk.utils.Helpers - /Users/smitabose/.m2/repository/com/browserstack/browserstack-java-sdk/1.8.0/browserstack-java-sdk-1.8.0.jar
+23:15:52.327 [ApplicationImpl pooled thread 71] INFO  c.b.s.l.BrowserStackRunExtension - Agent path: /Users/smitabose/.m2/repository/com/browserstack/browserstack-java-sdk/1.8.0/browserstack-java-sdk-1.8.0.jar
+23:15:52.327 [ApplicationImpl pooled thread 71] INFO  c.b.s.l.BrowserStackRunExtension - Adding Browserstack SDK javaagent argline
+23:15:52.327 [ApplicationImpl pooled thread 71] INFO  c.b.s.l.BrowserStackRunExtension - Plugin version: 2.0.2-IC
